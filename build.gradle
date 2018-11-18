@@ -27,6 +27,7 @@ repositories {
 
 ext {
 	springCloudVersion = 'Greenwich.M1'
+	
 }
 
 dependencies {
